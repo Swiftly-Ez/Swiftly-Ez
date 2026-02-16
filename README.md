@@ -1,45 +1,45 @@
-# 👋 Swiftly Ez
+# Hi 👋, I'm Zen Script
 
-💻 Multi-language developer  
-🎮 Gamer who builds bots, games, and web apps  
-⚡ "If it can be coded, I’ll probably build it."
+### Developer building bots, games, and immersive web experiences
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZenScriptDev&label=Profile views&color=0e75b6&style=flat" alt="ZenScriptDev" /> </p>
 
-## 🛠 Tech Stack
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZenScriptDev" alt="ZenScriptDev" /></a> </p>
 
-**Languages**
-- JavaScript
-- C++
-- C#
-- C
-- Python
-- HTML
+<p align="left"> <a href="https://twitter.com/zenscriptdev" target="blank"><img src="https://img.shields.io/twitter/follow/zenscriptdev?logo=twitter&style=for-the-badge" alt="zenscriptdev" /></a> </p>
 
-**Builds**
-- 🤖 Discord Bots
-- 🎮 Games
-- 🌐 Web Apps
-- 🔧 Tools / Backend Systems
+- 🔭 I'm currently working on **A Discord bot and an open-world survival base-crafting game**
 
----
+- 🌱 I'm currently learning **Blender (3D modeling & game assets)**
 
-## 📈 Currently
+- 👯 I'm looking to collaborate on **Open-source projects and creative development ideas**
 
-- Building a custom Discord bot
-- Improving architecture & clean code practices
+- 🤝 I'm looking for help with **Blender workflows, modeling techniques, and optimization tips**
 
----
+- 💬 Ask me about **Java, JavaScript, Python, and Web Development**
 
-## 🤝 Open To
+- 📫 How to reach me **https://linktr.ee/ZenScript**
 
-- Collaborations  
-- Freelance work  
-- Full-time opportunities  
-- Interesting projects
+- ⚡ Fun fact **I once spent hours debugging something… only to realize I forgot a semicolon — and somehow enjoyed the process anyway.**
 
----
+- 👨‍💻 All of my projects are available at **[https://linktr.ee/ZenScript](https://linktr.ee/ZenScript)**
 
-## 🎮 Outside of Code
+- 📝 I regularly write articles on **[https://linktr.ee/ZenScript](https://linktr.ee/ZenScript)**
 
-Gaming — inspiration for a lot of what I build.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/ZenScriptDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ZenScriptDev" height="30" width="40" /></a>
+<a href="https://instagram.com/zenscriptdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zenscriptdev" height="30" width="40" /></a>
+<a href="https://twitter.com/zenscriptdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zenscriptdev" height="30" width="40" /></a>
+<a href="https://discord.gg/swiftlegion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="swiftlegion" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ifttt" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ifttt" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZenScriptDev&show_icons=true&locale=en&layout=compact" alt="ZenScriptDev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZenScriptDev&show_icons=true&locale=en" alt="ZenScriptDev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenScriptDev&" alt="ZenScriptDev" /></p>
+

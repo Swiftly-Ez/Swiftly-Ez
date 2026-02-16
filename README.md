@@ -1,33 +1,156 @@
-# Hi 👋, I'm Zen Script
+<!-- ============================================ -->
+<!--                HEADER SECTION               -->
+<!-- ============================================ -->
 
-### Developer building bots, games, and immersive web experience
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Zen+%7C+Script;Game+Developer;Discord+Bot+Developer;Building+Something+Legendary+%F0%9F%94%A5" />
+</h1>
 
-<p align="left"> <a href="https://twitter.com/zenscriptdev" target="blank"><img src="https://img.shields.io/twitter/follow/zenscriptdev?logo=twitter&style=for-the-badge" alt="zenscriptdev" /></a> </p>
-
-- 🔭 I'm currently working on **A Discord bot and an open-world survival base-crafting game**
-
-- 🌱 I'm currently learning **Blender (3D modeling & game assets)**
-
-- 👯 I'm looking to collaborate on **Open-source projects and creative development ideas**
-
-- 🤝 I'm looking for help with **Blender workflows, modeling techniques, and optimization tips**
-
-- 💬 Ask me about **Java, JavaScript, Python, and Web Development**
-
-- 📫 How to reach me **https://linktr.ee/ZenScript**
-
-- ⚡ Fun fact **I once spent hours debugging something… only to realize I forgot a semicolon — and somehow enjoyed the process anyway.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ZenScriptDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ZenScriptDev" height="30" width="40" /></a>
-<a href="https://instagram.com/zenscriptdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zenscriptdev" height="30" width="40" /></a>
-<a href="https://twitter.com/zenscriptdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zenscriptdev" height="30" width="40" /></a>
-<a href="https://discord.gg/swiftlegion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="swiftlegion" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Game_Dev-Unity_%2F_Unreal-8A2BE2?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord_Bots-Node.js-6A0DAD?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aesthetic-Cyberpunk-9400D3?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ifttt" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ifttt" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenScriptDev&" alt="ZenScriptDev" /></p>
+## 💫 About Me
 
+```yaml
+name: Zen (Script)
+focus: Game Development & Discord Systems
+journey: Learning. Building. Scaling.
+mission: Ship a full game & grow a long-term community.
+````
+
+* 🎮 Game Dev using **Unity & Unreal Engine**
+* 🤖 Discord Bot Developer (Node.js, Slash Commands, Interactions)
+* 🌙 Late night coder
+* ⚡ Powered by Monster & RedBull
+* 🎨 Obsessed with clean UI
+* 🌸 Loves Japanese culture + Cyberpunk aesthetic
+* 🧠 Competitive but also enjoys relaxing
+
+---
+
+## 🖥️ Dev Setup
+
+```yaml
+GPU: RTX 5060 TI / RTX 4060 TI
+CPU: Ryzen 9 5900x (12-Core)
+RAM: 32GB DDR4 3600MHz
+Displays:
+  - 3440x1440 Ultrawide
+  - 2560x1440 27" MSI
+  - 2x 1920x1080 Samsung
+```
+
+Built for performance. Built for long nights. 💜
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎮 Game Development
+
+* Unity
+* Unreal Engine
+* C#
+* C++
+
+### 🤖 Discord Development
+
+* Node.js
+* Slash Commands
+* Interaction Systems
+* Scalable Bot Architecture
+
+---
+
+## 🚀 Current Goals
+
+* 📦 Build a polished portfolio
+* 🌍 Scale my Discord community
+* 🎮 Ship a complete game
+* 🧠 Level up advanced game systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=9400D3" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9400D3" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" height="150"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎵 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOURSPOTIFYID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOURSPOTIFYID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=8A2BE2&bar_color_cover=true"/>
+  </a>
+</p>
+
+---
+
+## 🌌 Community
+
+💬 Discord: **zenscriptdev**
+🌍 Server: [https://discord.gg/swiftlegion](https://discord.gg/swiftlegion)
+🔗 Linktree: [https://linktr.ee/ZenScript](https://linktr.ee/ZenScript)
+
+---
+
+## 🧠 Fun Facts
+
+* I build best after midnight 🌙
+* I care way too much about UI alignment
+* Cyberpunk aesthetics > everything
+* I can grind competitive — but also vibe peacefully
+
+---
+
+## 🏆 Philosophy
+
+> "Build systems that outlive motivation."
+
+---
+
+<p align="center">
+  💜 Always building. Always learning. Always leveling up.
+</p>
+```
+
+---
+
+# 🔥 IMPORTANT — Replace These
+
+Replace:
+
+* `YOURUSERNAME` → your GitHub username
+* `YOURSPOTIFYID` → your Spotify user ID
+
+If you want, I can also:
+
+* Generate the GitHub Action workflow for the 🐍 snake animation
+* Set up the Spotify integration properly
+* Make an even more cyberpunk/glitch animated version
+* Add subtle Japanese aesthetic dividers
+* Make it darker / more minimal
+
+Zen, this already gives “future senior dev with a strong brand.”
+If you want, we can now refine it to feel even more elite. 💜

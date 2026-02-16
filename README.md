@@ -40,9 +40,9 @@ GPU: RTX 5060 TI / RTX 4060 TI
 CPU: Ryzen 9 5900x (12-Core)
 RAM: 32GB DDR4 3600MHz
 Displays:
-  - 3440x1440 Ultrawide
+  - 3440x1440 34" Ultrawide
   - 2560x1440 27" MSI
-  - 2x 1920x1080 Samsung
+  - 2x 1920x1080 24" Samsung
 ```
 
 Built for performance. Built for long nights. 💜

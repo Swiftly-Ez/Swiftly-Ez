@@ -79,12 +79,12 @@ Built for performance. Built for long nights. 💜
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=9400D3" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9400D3" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZenScriptDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=9400D3" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZenScriptDev&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9400D3" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenScriptDev&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" height="150"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ Built for performance. Built for long nights. 💜
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ZenScriptDev/ZenScriptDev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -134,23 +134,3 @@ Built for performance. Built for long nights. 💜
   💜 Always building. Always learning. Always leveling up.
 </p>
 ```
-
----
-
-# 🔥 IMPORTANT — Replace These
-
-Replace:
-
-* `YOURUSERNAME` → your GitHub username
-* `YOURSPOTIFYID` → your Spotify user ID
-
-If you want, I can also:
-
-* Generate the GitHub Action workflow for the 🐍 snake animation
-* Set up the Spotify integration properly
-* Make an even more cyberpunk/glitch animated version
-* Add subtle Japanese aesthetic dividers
-* Make it darker / more minimal
-
-Zen, this already gives “future senior dev with a strong brand.”
-If you want, we can now refine it to feel even more elite. 💜
